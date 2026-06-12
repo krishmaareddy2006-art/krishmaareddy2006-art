@@ -20,8 +20,8 @@
 class Krishmaa:
     def __init__(self):
         self.name        = "Krishmaa Seenivasan"
-        self.location    = "Salem, Tamil Nadu, India 🇮🇳"
-        self.degree      = "B.Sc. Computer Science @ SNS College of Technology"
+        self.location    = "Coimbatore, Tamil Nadu, India 🇮🇳"
+        self.degree      = "B.E. Computer Science & Engineering @ SNS College of Technology"
         self.github      = "krishmaareddy2006-art"
         self.email       = "krishmaareddy2006@gmail.com"
 
@@ -201,7 +201,7 @@ print(me.motto())
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
 |:---|:---|:---|:---|
-| Bachelor of Science in Computer Science | SNS College of Technology | 2024 – 2028 | CGPA: 8.40 |
+| Bachelor of Engineering in Computer Science & Engineering | SNS College of Technology | 2024 – 2028 | CGPA: 8.40 |
 | Higher Secondary Education | St. Joseph's Mat. Hr. Sec. School | 2022 – 2024 | 81% |
 
 </div>
@@ -233,3 +233,4 @@ print(me.motto())
 </div>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)](https://github.com/krishmaareddy2006-art)
+
