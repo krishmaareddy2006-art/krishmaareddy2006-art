@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishmaa%20Seenivasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Web%20Development%20Enthusiast%20%7C%20Computer%20Science%20Engineer&descAlignY=62&descSize=16)](https://github.com/krishmaareddy2006-art)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krishmaa%20Seenivasan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Web%20Development%20Enthusiast%20%7C%20Computer%20Science%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Krishmaa+%F0%9F%91%8B;AI+%26+Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+JavaScript+Enthusiast+%F0%9F%92%BB;Building+Intelligent+Web+Solutions+%F0%9F%A4%96)](https://git.io/typing-svg)
 
